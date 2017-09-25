@@ -33,8 +33,8 @@ $size: 48;
     }
 
     .ico-github {
-        @include get-ico-image(github);
-
+        background-image: url('../images/simple-icons/qrcode.jpg');
+        
         background-color: #181717;
     }
 
