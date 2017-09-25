@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CoderBuff
 
 You can use the [editor on GitHub](https://github.com/coderbuff/coderbuff.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
