@@ -25,7 +25,7 @@ url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 title: Coder Buff
 description: "这是一个能给程序员加buff的公众号"
-keywords: 'jekyll,theme,gem-based,blog'
+keywords: 'coderbuff,blog,余林丰'
 author:
   name:
   job_title:
